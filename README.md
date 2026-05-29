@@ -26,3 +26,11 @@ Bu proje, 2 yıllık **Bilgisayar Programcılığı** programı staj bitirme pro
 **Test Hesapları:**
 - **Admin Girişi:** admin@sirket.com / Şifre: 123456
 - **Personel Girişi:** ahmet@sirket.com / Şifre: 123456
+### 🎥 Proje Videosu
+[Projenin arayüz ve çalışma testini izlemek için buraya tıklayın](https://youtu.be/-VUTXOU8zjo?si=1wh8dATnXGoa0vcg)
+
+
+
+
+
+
